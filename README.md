@@ -1,6 +1,5 @@
-# cozmo_tic-tac-toe
+# Playing Tic Tac Toe with Cozmo! 
 
-Playing Tic Tac Toe with Cozmo! 
 By Kanvi Shah
 
 Project Description: 
