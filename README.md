@@ -23,3 +23,5 @@ To run, use terminal to launch the cozmo-tictactoe.py file.
 
 The cozmo python SDK is needed for this project. 
 Instructions for downloading this can be found here: http://cozmosdk.anki.com/docs/initial.html#installation
+
+Demo video found here: https://www.youtube.com/watch?v=pg6G22qorBo
